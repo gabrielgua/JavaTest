@@ -123,7 +123,7 @@
   }
   ```
 
-## :exclamation: Exeption Handling
+## :exclamation: Exception Handling
 
 * ### Validação dos campos
 
